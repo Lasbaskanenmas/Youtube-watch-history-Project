@@ -23,13 +23,5 @@ This program is designed to analyze a user's YouTube watch history. Using data a
 - Python 3.9.12 or newer versions
 - Required Python libraries (mentioned above)
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Acknowledgments
-- Google Takeout 
-
 ## Contact
 - Lasbaskanenmas on github
-
-Feel free to use and modify this README to fit the specific details and requirements of your project.
